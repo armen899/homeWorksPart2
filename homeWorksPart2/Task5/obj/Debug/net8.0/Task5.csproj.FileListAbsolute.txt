@@ -1,0 +1,15 @@
+E:\homeWorksPart2\homeWorksPart2\Task5\bin\Debug\net8.0\Task5.exe
+E:\homeWorksPart2\homeWorksPart2\Task5\bin\Debug\net8.0\Task5.deps.json
+E:\homeWorksPart2\homeWorksPart2\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+E:\homeWorksPart2\homeWorksPart2\Task5\bin\Debug\net8.0\Task5.dll
+E:\homeWorksPart2\homeWorksPart2\Task5\bin\Debug\net8.0\Task5.pdb
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\Task5.sourcelink.json
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\Task5.dll
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\refint\Task5.dll
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\Task5.pdb
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+E:\homeWorksPart2\homeWorksPart2\Task5\obj\Debug\net8.0\ref\Task5.dll
